@@ -26,3 +26,6 @@ puts array2[1]
 
 #Prints "12.5"
 puts array3[2]
+
+#Prints first element in array to console
+puts array1.first
