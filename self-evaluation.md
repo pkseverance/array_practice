@@ -1,0 +1,3 @@
+- I feel very confident with arrays so far
+- Nope
+- None
