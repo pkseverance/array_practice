@@ -17,3 +17,12 @@ puts array3
 #Removes first element in array4 and prints to console
 array4.shift
 puts array4
+
+#Prints "Example1"
+puts array1[0]
+
+#Prints "2" 
+puts array2[1]
+
+#Prints "12.5"
+puts array3[2]
